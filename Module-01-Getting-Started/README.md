@@ -9,7 +9,7 @@
 ### What is an [Operating System(OS)](https://en.wikipedia.org/wiki/Operating_system "Wikipedia's Operating Systems page")
 An Operating System is a collection of software that controls all of the 
 hardware and software resources that make up a computer.
-![os layers][Operating System between users and hardware]
+![Operating System between users and hardware][os layers]
 
 ### What resources make up a [computer](https://en.wikipedia.org/wiki/Computer "Wikipedia's Computer page")?
 Computer systems have 3 components:
