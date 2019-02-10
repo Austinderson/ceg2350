@@ -11,7 +11,7 @@ An Operating System is a collection of software that controls all of the
 hardware and software resources that make up a computer.
 ![os layers][Operating System between users and hardware]
 
-##### What resources make up a [computer](https://en.wikipedia.org/wiki/Computer "Wikipedia's Computer page")?
+### What resources make up a [computer](https://en.wikipedia.org/wiki/Computer "Wikipedia's Computer page")?
 Computer systems have 3 components:
 1. Hardware: Central Processing Unit (CPU), Random-access Memory (RAM),
    keyboard, mouse, and various other input/output (I/O) devices.
@@ -106,5 +106,5 @@ To see a list of processes running on a computer:
 
 
 [silbershatz]: http://iips.icci.edu.iq/images/exam/Abraham-Silberschatz-Operating-System-Concepts---9th2012.12.pdf
-[os layers]: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Operating_system_placement.svg/500px-Operating_system_placement.svg.png
+[os layers]: https://upload.wikimedia.org/wikipedia/commons/e/e1/Operating_system_placement.svg
 [von neumann arch]: https://upload.wikimedia.org/wikipedia/commons/e/e5/Von_Neumann_Architecture.svg
